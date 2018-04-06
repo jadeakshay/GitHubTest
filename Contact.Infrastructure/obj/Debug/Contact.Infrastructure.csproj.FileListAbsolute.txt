@@ -1,0 +1,15 @@
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\Contact.Infrastructure.dll.config
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\Contact.Infrastructure.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\Contact.Infrastructure.pdb
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\Contact.Core.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\Contact.Core.pdb
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\Contact.Core.dll.config
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\obj\Debug\Contact.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\obj\Debug\Contact.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\obj\Debug\Contact.Infrastructure.csproj.CopyComplete
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\obj\Debug\Contact.Infrastructure.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Infrastructure\obj\Debug\Contact.Infrastructure.pdb

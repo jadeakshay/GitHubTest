@@ -1,0 +1,12 @@
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\Contact.Core.dll.config
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\Contact.Core.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\Contact.Core.pdb
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\EntityFramework.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\EntityFramework.xml
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\obj\Debug\Contact.Core.csproj.CoreCompileInputs.cache
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\obj\Debug\Contact.Core.csproj.CopyComplete
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\obj\Debug\Contact.Core.dll
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\obj\Debug\Contact.Core.pdb
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.Core\obj\Debug\Contact.Core.csprojResolveAssemblyReference.cache

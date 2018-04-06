@@ -1,0 +1,2 @@
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.UnitTest\obj\Debug\Contact.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ajade\source\repos\ContactManagement\ContactManagement\Contact.UnitTest\obj\Debug\Contact.UnitTest.csproj.CoreCompileInputs.cache

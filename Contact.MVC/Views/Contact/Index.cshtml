@@ -1,0 +1,77 @@
+﻿@model Contact.Core.Contacts
+@{
+    ViewBag.Title = "Contacts List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Contacts Lists</h2>
+
+<p>
+    <button type="button" class="btn btn-primary btn-sm" onclick="location.href='@Url.Action("Create","Contact")';"><span class="glyphicon glyphicon-plus"></span> Create New Contact</button>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Contact ID
+        </th>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Phone Number
+        </th>
+        <th>
+            Status
+        </th>
+        <th>
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in ViewBag.listContacts)
+    {
+        <tr>
+            <td>
+                @item.Contact_Id
+            </td>
+            <td>
+                @item.FirstName
+            </td>
+            <td>
+                @item.LastName
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @item.PhoneNumber
+            </td>
+            <td>
+                @if (item.Status)
+                {
+                    <p><span class="glyphicon glyphicon-ok" style="color:lime"></span></p>
+                }
+                else
+                {
+                    <p><span class="glyphicon glyphicon-remove" style="color:deeppink"></span></p>
+                }
+            </td>
+
+            <td>
+                <a class="btn btn-danger btn-xs" onclick="return confirm('Are you Sure ?')" href="@Url.Action("GoDelete","Contact" , new { id = item.Contact_Id })"><span class="glyphicon glyphicon-trash"></span> </a>
+                <a class="btn btn-warning btn-xs" href="@Url.Action("Edit","Contact" , new { id = item.Contact_Id })"><span class="glyphicon glyphicon-edit"></span> </a>
+                <a class="btn btn-success btn-xs" href="@Url.Action("Details","Contact" , new { id = item.Contact_Id })"><span class="glyphicon glyphicon-eye-open"></span> </a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+
